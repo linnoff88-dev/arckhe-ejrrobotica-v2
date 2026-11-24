@@ -1,4 +1,4 @@
-﻿# EJR RobÃ³tica â€” site v2 (visual escuro, tela cheia)
+# EJR RobÃ³tica â€” site v2 (visual escuro, tela cheia)
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -10,8 +10,8 @@ Segunda proposta de site para https://ejrrobotica.com.br/, inspirada no visual d
 de robÃ´ premium (fundo preto, brilho verde-limÃ£o, tÃ­tulos largos em caixa alta com parte em
 itÃ¡lico, mascote 3D) e ampliada para ocupar a tela inteira em todas as seÃ§Ãµes.
 
-**Ver online:** https://inematds.github.io/ejrrobotica-v2/
-VersÃ£o 1 (clara, estilo adesivo): https://inematds.github.io/ejrrobotica/
+**Ver online:** https://linnoff88-dev.github.io/
+VersÃ£o 1 (clara, estilo adesivo): https://linnoff88-dev.github.io/
 
 ## O que tem
 - Hero em 100% da tela com o mascote da EJR (selo laranja/verde/azul no peito) e leve parallax.
